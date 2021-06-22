@@ -1,4 +1,4 @@
-package clac
+package calc
 
 func Add(args ...int) int {
 	s := 0
